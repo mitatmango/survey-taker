@@ -1,0 +1,13 @@
+{
+  "base_link":"",
+  "survey_id": "",
+  "password": "",
+  "questions": [
+    {
+      "id": "",
+      "question_type" : "",
+      "option_count": 3,
+      "statement_count": 3
+    }
+  ]
+}
